@@ -1,106 +1,368 @@
 <div align="center">
 
-# Shei IT
+<img src="https://raw.githubusercontent.com/Mahedi454/Shei-IT/main/assets/shei-it-logo.png" width="120" alt="Shei IT Logo"/>
 
-### Innovate | Connect | Grow
+# <span style="color:#ff6b35;">Shei IT</span>
 
-**Technology solutions for businesses, creators, and growing brands.**
+### <span style="color:#8b949e;">INNOVATE • CONNECT • GROW</span>
 
-[Website](https://www.shei-it.com) • [LinkedIn](https://www.linkedin.com/in/shei-it) • [Instagram](https://www.instagram.com/sheiitofficial) • [Facebook](https://www.facebook.com/sheiitofficial)
+**We build digital experiences that help businesses move forward.**
+
+<br>
+
+<a href="https://www.shei-it.com">
+<img src="https://img.shields.io/badge/🌐_Website-FF6B35?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shei-it">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://www.instagram.com/sheiitofficial">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://www.facebook.com/sheiitofficial">
+<img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
 
 </div>
 
 ---
 
-## About Shei IT
+<div align="center">
 
-**Shei IT** is an IT solutions company focused on building modern digital products and helping businesses establish, improve, and maintain their online presence.
+## ⚡ Digital Solutions. Built Different.
 
-We combine development, design, marketing, cloud solutions, and ongoing technical support to create practical digital solutions that help businesses **innovate, connect with their audience, and grow.**
+</div>
 
----
+We are **Shei IT** — a technology solutions company creating modern websites, mobile applications, software, digital experiences, and growth solutions for businesses, creators, and ambitious brands.
 
-## What We Offer
+Our goal isn't just to build technology.
 
-| Service | What We Do |
-|---|---|
-| **Website Development** | Modern, responsive, and high-performance websites designed to support business growth. |
-| **Mobile App Development** | Custom mobile applications with modern UI, smooth performance, and scalable functionality. |
-| **Software Development** | Custom software solutions built around specific business needs and workflows. |
-| **Game Development** | Interactive and engaging game experiences for different platforms and use cases. |
-| **UI/UX Design** | Creative, user-friendly interfaces focused on usability, accessibility, and better user experience. |
-| **Hosting & Cloud** | Reliable hosting and cloud solutions focused on security, speed, scalability, and availability. |
-| **SEO & Marketing** | SEO and digital marketing strategies designed to improve visibility, traffic, and online growth. |
-| **Maintenance & Support** | Continuous monitoring, updates, security, improvements, and technical support. |
+### **We build things people actually use.**
 
 ---
 
-## Our Approach
+<br>
 
-We believe technology should solve real problems, not simply look impressive.
+<div align="center">
 
-### 01. Understand
-We learn about your business, audience, goals, and challenges.
+| 🌐 WEB | 📱 MOBILE | 🎨 DESIGN | ☁️ CLOUD | 📈 GROWTH |
+|:---:|:---:|:---:|:---:|:---:|
+| Websites | Apps | UI/UX | Hosting | SEO |
 
-### 02. Plan
-We turn your requirements into a clear digital solution and development plan.
+</div>
 
-### 03. Build
-We design and develop the product with usability, performance, and scalability in mind.
-
-### 04. Improve
-We provide ongoing support, maintenance, optimization, and growth-focused solutions.
+<br>
 
 ---
 
-## Why Shei IT?
+# 🚀 What We Build
 
-- Modern and user-focused solutions
-- Business-oriented approach
-- Scalable development
-- Clean and practical design
-- Long-term technical support
-- Development, design, cloud, and marketing under one roof
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## Our Projects
+### 🌐 Web Development
 
-We use this GitHub organization to showcase our work, experiments, open-source projects, and digital products.
+Modern digital experiences built for speed, scalability, and business growth.
 
-Explore our repositories to see what we are building.
+**We work with**
 
-> More projects and case studies are coming soon.
+`Next.js` `React` `JavaScript`  
+`PHP` `Laravel` `WordPress`
 
----
+</td>
 
-## Connect With Us
+<td width="50%" valign="top">
 
-Have an idea, project, or business challenge?
+### 📱 Mobile Applications
 
-**Let's build something great together.**
+Beautiful and scalable mobile applications designed around real users.
 
-🌐 **Website:** [www.shei-it.com](https://www.shei-it.com)
+**We work with**
 
-📧 **Email:** [sheiitofficial@gmail.com](mailto:sheiitofficial@gmail.com)
+`Flutter` `Dart` `Firebase`
 
-📞 **Phone:** +880 1768-857058
+</td>
 
-💬 **WhatsApp:** +880 1575-626672
+</tr>
 
-💼 **LinkedIn:** [Shei IT](https://www.linkedin.com/in/shei-it)
+<tr>
 
-📘 **Facebook:** [Facebook](https://www.facebook.com/sheiitofficial)
+<td width="50%" valign="top">
 
-📸 **Instagram:** [@sheiitofficial](https://www.instagram.com/sheiitofficial)
+### 🎨 UI/UX Design
+
+Interfaces that look great **and** make sense.
+
+We focus on:
+
+- User experience
+- Responsive layouts
+- Accessibility
+- Design systems
+- Prototyping
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+Custom digital systems designed around the way your business actually works.
+
+From simple internal tools to scalable business platforms.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Hosting
+
+Reliable infrastructure for modern applications.
+
+`Deployment` `Domains` `SSL`  
+`Cloud` `Performance` `Security`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 SEO & Digital Growth
+
+We help businesses become easier to discover and easier to trust online.
+
+`SEO` `Analytics` `Optimization`  
+`Digital Marketing`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Shei IT
-**Innovate | Connect | Grow**
+# 🧠 Our Philosophy
 
-*We're just a message away.*
+### Technology should solve problems — not create them.
+
+<br>
+
+**01 — Understand**
+
+We understand the business, users, goals, and problems.
+
+↓
+
+**02 — Design**
+
+We turn ideas into simple and meaningful experiences.
+
+↓
+
+**03 — Build**
+
+We develop reliable, scalable, and maintainable products.
+
+↓
+
+**04 — Grow**
+
+We continuously improve the product as the business grows.
+
+</div>
+
+---
+
+# 🛠️ Our Technology
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,vercel" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
+</div>
+
+---
+
+# ✨ Why Shei IT?
+
+<div align="center">
+
+### We don't just deliver projects.
+### We build long-term digital solutions.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Modern**
+
+<br>
+
+Latest technologies  
+& modern experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯
+
+**Focused**
+
+<br>
+
+Solutions designed  
+around real goals
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+**Scalable**
+
+<br>
+
+Built to grow  
+with your business
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝
+
+**Support**
+
+<br>
+
+We're here beyond  
+the launch
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔥 What We're Building
+
+<div align="center">
+
+### 🌐 Websites
+### 📱 Mobile Apps
+### 🛒 eCommerce Platforms
+### 💼 Business Software
+### 🎨 Digital Experiences
+### 🧪 Experimental Projects
+
+<br>
+
+**Explore our repositories to see what we're building.**
+
+</div>
+
+---
+
+# 📊 Shei IT Ecosystem
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MOBILE-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLOUD-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEO-FF6B35?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/INNOVATE-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/CONNECT-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/GROW-FF6B35?style=flat-square"/>
+
+</div>
+
+---
+
+# 🌍 Let's Build Something Great
+
+<div align="center">
+
+Have an idea?
+
+Have a business problem?
+
+Need a digital product?
+
+### **Let's turn it into something real.**
+
+<br>
+
+<a href="https://www.shei-it.com">
+<img src="https://img.shields.io/badge/START_A_PROJECT-FF6B35?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+📧 **sheiitofficial@gmail.com**
+
+📞 **+880 1768-857058**
+
+💬 **+880 1575-626672**
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+# <span style="color:#FF6B35;">Shei IT</span>
+
+### Innovate • Connect • Grow
+
+**Building digital solutions for businesses that want to move forward.**
+
+<br>
+
+<sub>© 2026 Shei IT. All rights reserved.</sub>
 
 </div>
