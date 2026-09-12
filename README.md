@@ -6,7 +6,7 @@
 
 **Technology solutions for businesses, creators, and growing brands.**
 
-[Website](https://www.shei-it.com) • [LinkedIn](https://www.linkedin.com/in/shei-it) • [Instagram](https://www.instagram.com/sheiitofficial)
+[Website](https://www.shei-it.com) • [LinkedIn](https://www.linkedin.com/in/shei-it) • [Instagram](https://www.instagram.com/sheiitofficial) • [Facebook](https://www.facebook.com/sheiitofficial)
 
 </div>
 
@@ -89,6 +89,8 @@ Have an idea, project, or business challenge?
 💬 **WhatsApp:** +880 1575-626672
 
 💼 **LinkedIn:** [Shei IT](https://www.linkedin.com/in/shei-it)
+
+📘 **Facebook:** [Facebook](https://www.facebook.com/sheiitofficial)
 
 📸 **Instagram:** [@sheiitofficial](https://www.instagram.com/sheiitofficial)
 
