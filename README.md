@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="logo.png" alt = "Shei IT Logo" width = "180" />
 # Shei IT
 
 ### Innovate | Connect | Grow
