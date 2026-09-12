@@ -39,16 +39,12 @@ We combine **development, design, marketing, cloud, and ongoing technical suppor
 
 ## 🔵 Our Approach
 
-<div align="center">
-
 | Step | Focus | Description |
 |:---:|---|---|
 | 01 | **Understand** | We learn your business, audience, goals, and challenges. |
 | 02 | **Plan** | We turn requirements into a clear solution and roadmap. |
 | 03 | **Build** | We design and develop with usability, performance, and scale in mind. |
 | 04 | **Improve** | We provide ongoing support, optimization, and growth-focused iteration. |
-
-</div>
 
 <br/>
 
@@ -91,6 +87,7 @@ Have an idea, project, or business challenge? **Let's build something great toge
 <img src="./assets/shei-it-logo.png" alt="Shei IT Logo" width="60"/>
 
 **Shei IT** — *Innovate · Connect · Grow*
+<br/>
 *We're just a message away.*
 
 </div>
