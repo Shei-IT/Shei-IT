@@ -24,7 +24,7 @@ and help businesses move forward.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=We+build+digital+solutions+for+real+businesses.;Development+%C2%B7+Design+%C2%B7+Marketing+%C2%B7+Cloud;From+ideas+to+digital+products.;Innovate |+Connect |+Grow" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=We+build+digital+solutions+for+real+businesses.;Development+%C2%B7+Design+%C2%B7+Marketing+%C2%B7+Cloud;From+ideas+to+digital+products.;Innovate+%7C+Connect+%7C+Grow" alt="Typing SVG"/>
 
 </div>
 
