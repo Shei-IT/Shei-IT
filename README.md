@@ -48,10 +48,6 @@ Have an idea, project, or business challenge? Let's build something great togeth
 
 </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:0B3D91&height=150&section=footer&text=We're%20just%20a%20message%20away&fontSize=20&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%"/>
 Content
-Shei_IT_README.md
 
-105 lines
-
-MD
 
 </div>
