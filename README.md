@@ -12,7 +12,7 @@ and help businesses move forward.
 <a href="https://www.shei-it.com">
 <img src="https://img.shields.io/badge/Website-shei--it.com-0B72E7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/shei-it">
+<a href="https://www.linkedin.com/company/shei-it/">
 <img src="https://img.shields.io/badge/LinkedIn-Shei%20IT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/sheiitofficial">
@@ -185,7 +185,7 @@ Let's turn it into a practical digital solution.
 
 <br>
 
-<a href="https://www.linkedin.com/in/shei-it">
+<a href="https://www.linkedin.com/company/shei-it/">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-Shei%20IT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
